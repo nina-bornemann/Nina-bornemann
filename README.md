@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Nina
 
-<!--
-**nina-bornemann/Nina-bornemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently taking part in a Bootcamp to become a full-stack developer. Coming from a background in Biochemistry (M.Sc.) and working in research, I shifted into software engineering to build tools that are clean, practical, and impactful.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java ☕ | TypeScript / JavaScript�
+- **Frontend:** React | HTML | CSS
+- **Backend:** Spring Boot | REST APIs | Node.js
+- **Databases:** MySQL | MongoDB | PostgreSQL
+- **Tools** & Others: Git | Docker | Maven | Vite | JUnit
+
+## 🚀 Key Projects
+- 🔹 Spring_Data_AsterixAPI
+Java + Spring Boot backend inspired by the Asterix universe. Focused on data modeling, persistence, and REST API design.
+- 🔹 OpenAI_based_Recipes
+App that generates recipe ideas using OpenAI’s API. Combines frontend interaction, API integration, and user experience design.
+
+(Also check out my MusicPlayer and ToDo_Backend_Project for more hands-on coding exercises)
+
+
+### 📫 Let’s Connect
+🌍 GitHub
+💼 [LinkedIn](https://www.linkedin.com/in/nina-bornemann/)
