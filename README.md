@@ -8,19 +8,25 @@
 - **Frontend:** React | HTML | CSS
 - **Backend:** Spring Boot | REST APIs | Node.js
 - **Databases:** MySQL | MongoDB | PostgreSQL
-- **Tools & Others:** Git | Docker | Maven | Vite | JUnit
+- **Tools & Others:** Git | Docker | Maven | Vite | JUnit | OAuth
 
 ## 🚀 Key Projects
-🔹 [Asterix API](https://github.com/nina-bornemann/Spring_Data_AsterixAPI)
-  
-Java + Spring Boot backend inspired by the Asterix universe. Focused on data modeling, persistence, and REST API design.
 
 🔹 [OpenAI-based Recipes](https://github.com/nina-bornemann/OpenAI_based_Recipes)
   
 App that generates recipe ideas using OpenAI’s API. Combines frontend interaction, API integration, and user experience design.
 
+🔹 [Rick and Morty Gallery](https://github.com/nina-bornemann/Rick-Morty_React_Router)
 
-(Also check out my [MusicPlayer](https://github.com/nina-bornemann/MusicPlayer) and [Kanban ToDo Board](https://github.com/nina-bornemann/ToDo_Backend_Project) for more hands-on coding exercises)
+A React + TypeScript app powered by the Rick & Morty API. Showcases frontend routing, API integration, and dynamic character creation with a playful UI.
+
+🔹 [Asterix API](https://github.com/nina-bornemann/Spring_Data_AsterixAPI)
+
+Java + Spring Boot backend inspired by the Asterix universe. Focused on data modeling, persistence, and REST API design.  
+
+
+
+(Also check out my [MusicPlayer](https://github.com/nina-bornemann/MusicPlayer) and [Kanban ToDo Board](https://github.com/nina-bornemann/ToDo_Backend_Project) and its [follow-up project](https://github.com/nina-bornemann/ToDo_Frontend) for frontend-implementation.  for more hands-on coding exercises)
 
 
 ### 📫 Let’s Connect
