@@ -34,3 +34,5 @@ Java + Spring Boot backend inspired by the Asterix universe. Focused on data mod
 🌍 GitHub
 
 💼 [LinkedIn](https://www.linkedin.com/in/nina-bornemann/)
+
+📍 Berlin, Germany
