@@ -12,6 +12,11 @@
 
 ## 🚀 Key Projects
 
+🔹 [LitScience - Capstone Project](https://github.com/nina-bornemann/LitScience)
+
+LitScience is a web app that helps researchers collect, organize, and analyze scientific papers by importing them via DOI or PDF and enhancing insights with AI tools.
+Full-Stack Capstone Project of Java Development Bootcamp. 
+
 🔹 [OpenAI-based Recipes](https://github.com/nina-bornemann/OpenAI_based_Recipes)
   
 App that generates recipe ideas using OpenAI’s API. Combines frontend interaction, API integration, and user experience design.
