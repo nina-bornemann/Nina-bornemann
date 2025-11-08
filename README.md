@@ -8,13 +8,13 @@
 - **Frontend:** React | HTML | CSS
 - **Backend:** Spring Boot | REST APIs | Node.js
 - **Databases:** MySQL | MongoDB | PostgreSQL
-- **Tools & Others:** Git | Docker | Maven | Vite | JUnit | OAuth
+- **Tools & Others:** Git | Docker | Maven | Vite | JUnit | OAuth | Render
 
 ## 🚀 Key Projects
 
 🔹 [LitScience - Capstone Project](https://github.com/nina-bornemann/LitScience)
 
-LitScience is a web app that helps researchers collect, organize, and analyze scientific papers by importing them via DOI or PDF and enhancing insights with AI tools.
+LitScience is a web app that helps researchers collect, organize, and analyze scientific papers by importing them via DOI and enhancing insights with AI tools.
 Full-Stack Capstone Project of Java Development Bootcamp. 
 
 🔹 [OpenAI-based Recipes](https://github.com/nina-bornemann/OpenAI_based_Recipes)
