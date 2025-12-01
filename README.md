@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Nina
 
-🌱 I’m currently taking part in a Bootcamp to become a full-stack developer. Coming from a background in Biochemistry (M.Sc.) and working in research, I shifted into software engineering to build tools that are clean, practical, and impactful.
+🌱 I’m a full-stack Java developer. Coming from a background in Biochemistry (M.Sc.) and working in research, I shifted into software engineering to build tools that are clean, practical, and impactful.
 
 
 ## 🛠 Tech Stack
