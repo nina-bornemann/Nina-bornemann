@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Nina
 
-🌱 I’m a full-stack Java developer. Coming from a background in Biochemistry (M.Sc.) and working in research, I shifted into software engineering to build tools that are clean, practical, and impactful.
+🌱 I’m a full-stack Java developer. Coming from a background in Biochemistry (M.Sc.) and working in research, I shifted into software engineering to build tools that are clean, practical, and impactful. Right now I’m also expanding my skillset with Python and working with AI-driven voice tools.
 
 
 ## 🛠 Tech Stack
-- **Languages:** Java ☕ | TypeScript / JavaScript
+- **Languages:** Java ☕ | TypeScript / JavaScript | Python
 - **Frontend:** React | HTML | CSS
 - **Backend:** Spring Boot | REST APIs | Node.js
 - **Databases:** MySQL | MongoDB | PostgreSQL
